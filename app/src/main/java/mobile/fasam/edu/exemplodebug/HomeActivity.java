@@ -37,6 +37,11 @@ public class HomeActivity extends DebugActivity {
                 startActivity(intent);
                 break;
 
+            case R.id.btnAluno:
+                intent = new Intent(this,AlunoActivity.class);
+                startActivity(intent);
+                break;
+
             default:
                 Toast.makeText(getApplicationContext(),
                         "Opcao Inválida",

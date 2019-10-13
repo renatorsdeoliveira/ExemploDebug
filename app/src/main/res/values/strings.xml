@@ -8,4 +8,8 @@
     <string name="txtEmailProfessor">Digite seu email</string>
     <string name="txtTelefoneProfessor">Digite seu telefone</string>
     <string name="txtMatriculaProfessor">Digite sua matrícula</string>
+    <string name="txtNomeAluno">Digite seu nome</string>
+    <string name="txtN1">Digite a nota da N1</string>
+    <string name="txtN2">Digite a nota da N2</string>
+    <string name="txtN3">Digite a nota da N3</string>
 </resources>
