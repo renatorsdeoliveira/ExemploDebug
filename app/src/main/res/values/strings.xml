@@ -2,4 +2,6 @@
     <string name="app_name">ExemploDebug</string>
     <string name="txtNome">Digite seu nome</string>
     <string name="txtTelefone">Digite seu telefone</string>
+    <string name="txtNomeLista">Digite seu nome</string>
+    <string name="txtEmailLista">Digite seu email</string>
 </resources>

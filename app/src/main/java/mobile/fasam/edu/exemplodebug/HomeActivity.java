@@ -22,13 +22,16 @@ public class HomeActivity extends DebugActivity {
 
         switch (opcao){
 
-            //Exibir tela MainActivity
             case R.id.btnMain:
-
                 intent = new Intent(this,MainActivity.class);
                 startActivity(intent);
-
                 break;
+
+            case R.id.btnLista:
+                intent = new Intent(this,ListaActivity.class);
+                startActivity(intent);
+                break;
+
             default:
                 Toast.makeText(getApplicationContext(),
                         "Opcao Inválida",
