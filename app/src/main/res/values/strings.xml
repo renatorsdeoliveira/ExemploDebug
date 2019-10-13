@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ExemploDebug</string>
+    <string name="txtNome">Digite seu nome</string>
+    <string name="txtTelefone">Digite seu telefone</string>
 </resources>
