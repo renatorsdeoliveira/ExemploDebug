@@ -24,5 +24,12 @@
             android:layout_height="wrap_content"
             android:onClick="exibirTela"
             android:text="Lista" />
+
+        <Button
+            android:id="@+id/btnProfessor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="exibirTela"
+            android:text="Professor" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -4,4 +4,8 @@
     <string name="txtTelefone">Digite seu telefone</string>
     <string name="txtNomeLista">Digite seu nome</string>
     <string name="txtEmailLista">Digite seu email</string>
+    <string name="txtNomeProfessor">Digite seu nome</string>
+    <string name="txtEmailProfessor">Digite seu email</string>
+    <string name="txtTelefoneProfessor">Digite seu telefone</string>
+    <string name="txtMatriculaProfessor">Digite sua matrícula</string>
 </resources>
